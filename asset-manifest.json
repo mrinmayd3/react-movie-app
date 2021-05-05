@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/REACT_APP_SEARCH_API=https://api.themoviedb.org/3/search/moviestatic/css/main.cc326935.chunk.css",
+    "main.js": "/REACT_APP_SEARCH_API=https://api.themoviedb.org/3/search/moviestatic/js/main.eaf3be57.chunk.js",
+    "main.js.map": "/REACT_APP_SEARCH_API=https://api.themoviedb.org/3/search/moviestatic/js/main.eaf3be57.chunk.js.map",
+    "runtime-main.js": "/REACT_APP_SEARCH_API=https://api.themoviedb.org/3/search/moviestatic/js/runtime-main.540f3d19.js",
+    "runtime-main.js.map": "/REACT_APP_SEARCH_API=https://api.themoviedb.org/3/search/moviestatic/js/runtime-main.540f3d19.js.map",
+    "static/js/2.b9aa77b4.chunk.js": "/REACT_APP_SEARCH_API=https://api.themoviedb.org/3/search/moviestatic/js/2.b9aa77b4.chunk.js",
+    "static/js/2.b9aa77b4.chunk.js.map": "/REACT_APP_SEARCH_API=https://api.themoviedb.org/3/search/moviestatic/js/2.b9aa77b4.chunk.js.map",
+    "index.html": "/REACT_APP_SEARCH_API=https://api.themoviedb.org/3/search/movieindex.html",
+    "precache-manifest.014afb3b5eed4db5d4a39fa0fec506c9.js": "/REACT_APP_SEARCH_API=https://api.themoviedb.org/3/search/movieprecache-manifest.014afb3b5eed4db5d4a39fa0fec506c9.js",
+    "service-worker.js": "/REACT_APP_SEARCH_API=https://api.themoviedb.org/3/search/movieservice-worker.js",
+    "static/css/main.cc326935.chunk.css.map": "/REACT_APP_SEARCH_API=https://api.themoviedb.org/3/search/moviestatic/css/main.cc326935.chunk.css.map",
+    "static/js/2.b9aa77b4.chunk.js.LICENSE.txt": "/REACT_APP_SEARCH_API=https://api.themoviedb.org/3/search/moviestatic/js/2.b9aa77b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.540f3d19.js",
+    "static/js/2.b9aa77b4.chunk.js",
+    "static/css/main.cc326935.chunk.css",
+    "static/js/main.eaf3be57.chunk.js"
+  ]
+}
